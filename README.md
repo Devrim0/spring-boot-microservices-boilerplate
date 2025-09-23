@@ -371,6 +371,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+   
+👉 Get the Full Starter Kit on Gumroad
+https://devrimozcay.gumroad.com/l/ozkziq
+
 ## 📞 Support
 
 If you have any questions or need help with this boilerplate:
